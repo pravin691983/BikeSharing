@@ -44,7 +44,7 @@ They have contracted a consulting company to understand the factors on which the
 
 ## Data in depth
 
-- We are going to analyze loan datasets,
+- We are going to analyze datasets,
 - The datasets contains details information related of the bike sharing such as year, month, temp, wind speed etc.
 - The dataset comprises of 730 observations of 16 columns. Below is a table showing names of the few columns.
 
@@ -73,7 +73,7 @@ They have contracted a consulting company to understand the factors on which the
 
 ## Conclusions
 
-Based on our analysis there is high probability if applicants taking loan:
+Based on our analysis and as per our final Model, the top 3 predictor variables that influences the bike booking are:
 
 - Temperature (temp) - A coefficient value of ‘0.5309’ indicated that a unit increase in temp variable increases the bike hire numbers by 0.5309 units.
 - Weather Situation 3 (weathersit_3) - A coefficient value of ‘-0.2993’ indicated that, w.r.t Weathersit1, a unit increase in Weathersit3 variable decreases the bike hire numbers by 0.2993 units.
